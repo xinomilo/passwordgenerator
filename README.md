@@ -7,6 +7,8 @@ This application lets you generate random passwords easily. It was originally ma
 
 Live demo: https://passwordgenerator.clicface.fr
 
+modified by xinomilo to be used as a public password generator site.
+
 References
 ----------
 * http://onwebdev.blogspot.com/2011/08/jquery-generate-random-password.html
