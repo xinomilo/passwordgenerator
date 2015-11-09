@@ -1,0 +1,12 @@
+/* noto-sans-regular - greek_latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/noto-sans-v6-greek_latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Noto Sans'), local('NotoSans'),
+       url('./fonts/noto-sans-v6-greek_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/noto-sans-v6-greek_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/noto-sans-v6-greek_latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/noto-sans-v6-greek_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/noto-sans-v6-greek_latin-regular.svg#NotoSans') format('svg'); /* Legacy iOS */
